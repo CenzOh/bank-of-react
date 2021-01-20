@@ -1,0 +1,8 @@
+.debitTable, .dTitle, .image {
+    text-align: center;
+}
+
+.debitTable {
+    border-radius: 10%;
+    border: 4px black solid;
+}

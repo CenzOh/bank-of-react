@@ -1,0 +1,11 @@
+.links, h1, .accountBalance, .image {
+    text-align: center;
+}
+
+.title {
+    color: rgb(255, 0, 179);
+}
+
+* {
+    background-color: rgb(218, 248, 246)
+}

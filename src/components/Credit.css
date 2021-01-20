@@ -1,0 +1,8 @@
+.creditTable, .cTitle, .image {
+    text-align: center;
+}
+
+.creditTable {
+    border-radius: 10%;
+    border: 4px black solid;
+}

@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    /* header */
+}
+
+form {
+    text-align: center;
+/* userN and pwd */
+}
+
+label {
+    font-weight: bolder;
+    /* text */
+}
+
+button {
+    width: 80px;
+    height: 20px;
+    background-color: white;
+}
+
+.image {
+    text-align: center;
+}
